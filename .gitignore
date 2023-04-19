@@ -1,4 +1,4 @@
 node_modules/
 .env
-db.mjs
+db
 #fichier que git doit ignorer 
